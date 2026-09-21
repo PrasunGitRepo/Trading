@@ -1,11 +1,42 @@
-Fundamental analysis relies heavily on three financial statement:
-1 Income Statement (P&L)	Is the company profitable?	Revenue, expenses, operating profit, net profit, margins
-2 Balance Sheet	What does the company own and owe?	Assets, liabilities, shareholders' equity, financial strength
-3 Cash Flow Statement	Is the company actually generating cash?	Cash generated/used by operations, investing, and financing
+Fundamental Analysis
 
-Other important parameters of fundamental analysis
-Liquidity Ratio: Measures a company's ability to pay short-term liabilities.
+Fundamental analysis relies heavily on three financial statements:
 
-Current Ratio: Current Assets ÷ Current Liabilities
+Financial Statement	Main Question	What It Shows
+1. Income Statement (P&L)	Is the company profitable?	Revenue, expenses, operating profit, net profit, margins
+2. Balance Sheet	What does the company own and owe?	Assets, liabilities, shareholders' equity, financial strength
+3. Cash Flow Statement	Is the company actually generating cash?	Cash generated/used by operating, investing and financing activities
+Other Important Parameters of Fundamental Analysis
+1. Liquidity Ratios
 
-Quick Ratio: (Current Assets − Inventory) ÷ Current Liabilities
+Liquidity Ratio: Measures a company's ability to pay its short-term liabilities.
+
+Current Ratio:
+Current Assets ÷ Current Liabilities
+
+Quick Ratio:
+(Current Assets − Inventory − Prepaid Expenses) ÷ Current Liabilities
+
+2. Profitability Ratios
+
+Gross Profit Margin
+Desired: Generally, higher and stable is preferred.
+Definition: (Gross Profit ÷ Revenue) × 100 → Shows profit after the cost of goods sold.
+
+Net Profit Margin
+Desired: Generally, higher and consistently improving is preferred.
+Definition: (Net Profit ÷ Revenue) × 100 → Shows profit left after all expenses.
+
+ROE (Return on Equity)
+Desired: Generally, higher and sustainable is preferred.
+Definition: (Net Profit ÷ Shareholders' Equity) × 100 → Shows how efficiently the company uses shareholders' money.
+
+3. Market Valuation Ratios
+
+P/E Ratio (Price-to-Earnings)
+Desired: Depends on the company's growth and industry; lower isn't automatically better.
+Definition: Market Price per Share ÷ EPS → Shows how much investors are paying for ₹1 of earnings.
+
+Dividend Yield
+Desired: Generally, higher is preferred by income-focused investors.
+Definition: (Dividend per Share ÷ Market Price per Share) × 100 → Shows dividend return relative to the share price.
