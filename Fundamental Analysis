@@ -34,8 +34,9 @@ Definition: (Net Profit ÷ Shareholders' Equity) × 100 → Shows how efficientl
 3. Market Valuation Ratios
 P/E Ratio (Price-to-Earnings)
 Desired: Depends on the company's growth and industry. A lower P/E is not always better.
-Definition: Market Price per Share ÷ EPS → Shows how much investors are willing to pay for ₹1 of the company's profit.
+Definition: Market Price per Share ÷ EPS(Earning per share) → Shows how much investors are willing to pay for ₹1 of the company's profit.
 
-Dividend Yield
-Desired: Generally, higher is better for investors looking for regular dividend income.
-Definition: (Dividend per Share ÷ Market Price per Share) × 100 → Shows how much dividend return you get compared to the share price.
+Dividend Yield:
+Desired: Generally, higher is preferred for investors seeking dividend income.
+Definition: Shows how much cash dividend you receive from a share compared to its market price.
+Formula: (Dividend per Share ÷ Market Price per Share) × 100
