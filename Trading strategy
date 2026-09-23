@@ -18,3 +18,8 @@ when it again creates a red brick - SELL
 
 5 TRIPLE BOTTOM PATTERN
 SAME as double bottom - just it will have three lows
+
+6 RSI indicator :
+we need to look for RSI divergence (set RSI to 20 period)
+For ex- Price is going high and RSI is going LOW ==> PRICE is going to DIP shortly
+Price is going low and RSI is going high ==> PRICE is going to RISE shortly
